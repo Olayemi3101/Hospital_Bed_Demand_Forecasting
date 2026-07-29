@@ -1,0 +1,41 @@
+Review_Date,hospital_name,hospital_id,unit,MAPE,Drift_Status,Retraining_Recommendation
+2026-07-29,Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Cardiology Ward,13.236358654555275,Normal,MODEL OK
+2026-07-29,Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,inf,Normal,RETRAIN MODEL
+2026-07-29,Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward A,1.3659934725844922,Normal,MODEL OK
+2026-07-29,Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,8.634890809322759,Normal,MODEL OK
+2026-07-29,Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_ICU,3.549821510697641,Normal,MODEL OK
+2026-07-29,Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Oncology Ward,16.813869749767193,Normal,RETRAIN MODEL
+2026-07-29,Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward A,0.7898610716092618,Normal,MODEL OK
+2026-07-29,Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,1.689506544429837,Normal,MODEL OK
+2026-07-29,Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Cardiology Ward,11.849798766927806,Normal,MODEL OK
+2026-07-29,Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,inf,Normal,RETRAIN MODEL
+2026-07-29,Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward A,0.9696128406753465,Normal,MODEL OK
+2026-07-29,Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward B,6.8637869392632185,Normal,MODEL OK
+2026-07-29,Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_ICU,8.685772614438934,Normal,MODEL OK
+2026-07-29,Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Oncology Ward,6.963811861024693,Normal,MODEL OK
+2026-07-29,Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward A,2.5439738034231345,Normal,MODEL OK
+2026-07-29,Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward B,3.1923055440937884,Normal,MODEL OK
+2026-07-29,Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,15.22686877016636,Normal,RETRAIN MODEL
+2026-07-29,Horizon London Central,HHN-LON-01,HHN-LON-01_Day Case Unit,inf,Normal,RETRAIN MODEL
+2026-07-29,Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,6.918215946902986,Normal,MODEL OK
+2026-07-29,Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward B,8.117079775401862,Normal,MODEL OK
+2026-07-29,Horizon London Central,HHN-LON-01,HHN-LON-01_ICU,5.474201178261762,Normal,MODEL OK
+2026-07-29,Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,9.627597177172266,Normal,MODEL OK
+2026-07-29,Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,11.780360206981308,Normal,MODEL OK
+2026-07-29,Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward B,12.014296552492217,Normal,MODEL OK
+2026-07-29,Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,0.4777107193841418,Normal,MODEL OK
+2026-07-29,Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,inf,Normal,RETRAIN MODEL
+2026-07-29,Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward A,0.8425994816783701,Normal,MODEL OK
+2026-07-29,Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,1.7268607285531206,Normal,MODEL OK
+2026-07-29,Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,10.7281276970957,Normal,MODEL OK
+2026-07-29,Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,11.710309646088362,Normal,MODEL OK
+2026-07-29,Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward A,1.7685175881066872,Normal,MODEL OK
+2026-07-29,Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,3.377436798411508,Normal,MODEL OK
+2026-07-29,Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Cardiology Ward,3.0731656286015174,Normal,MODEL OK
+2026-07-29,Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,inf,Normal,RETRAIN MODEL
+2026-07-29,Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,8.166402235477618,Normal,MODEL OK
+2026-07-29,Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward B,2.496481800036448,Normal,MODEL OK
+2026-07-29,Horizon Manchester,HHN-MAN-01,HHN-MAN-01_ICU,2.1945438346477197,Normal,MODEL OK
+2026-07-29,Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,6.418482129091882,Normal,MODEL OK
+2026-07-29,Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward A,11.936788442100012,Normal,MODEL OK
+2026-07-29,Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward B,6.1891430868762685,Normal,MODEL OK

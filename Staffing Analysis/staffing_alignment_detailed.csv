@@ -1,0 +1,649 @@
+hospital_name,hospital_id,unit,date,actual,predicted,model,planned_staff,actual_staff,safe_ratio_met,beds_per_planned_staff,beds_per_actual_staff,feasibility_flag,historical_safe_ratio,overall_status
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Cardiology Ward,2025-12-25,21.20833333333333,22.28165367795529,SARIMA,20,20,True,1.1140826838977644,1.1140826838977644,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Cardiology Ward,2025-12-26,23.375,21.692058144606413,SARIMA,20,20,True,1.0846029072303207,1.0846029072303207,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Cardiology Ward,2025-12-27,19.0,19.730130548308445,SARIMA,20,20,True,0.9865065274154222,0.9865065274154222,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Cardiology Ward,2025-12-28,18.875,17.138077758943286,SARIMA,20,20,True,0.8569038879471643,0.8569038879471643,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Cardiology Ward,2025-12-29,16.916666666666668,16.98828894967998,SARIMA,20,20,True,0.849414447483999,0.849414447483999,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Cardiology Ward,2025-12-30,14.958333333333334,18.73030633063691,SARIMA,20,20,True,0.9365153165318455,0.9365153165318455,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Cardiology Ward,2025-12-31,14.333333333333334,20.31161930781439,SARIMA,20,20,True,1.0155809653907195,1.0155809653907195,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Day Case Unit,2025-12-25,0.625,0.6728900607083949,SARIMA,1,1,True,0.6728900607083949,0.6728900607083949,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Day Case Unit,2025-12-26,0.0,0.6200650980772515,SARIMA,1,1,True,0.6200650980772515,0.6200650980772515,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Day Case Unit,2025-12-27,0.2083333333333333,0.3160162066828611,SARIMA,1,1,True,0.3160162066828611,0.3160162066828611,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Day Case Unit,2025-12-28,0.5,0.2633675321599077,SARIMA,1,1,True,0.2633675321599077,0.2633675321599077,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Day Case Unit,2025-12-29,0.4583333333333333,0.7477917422556347,SARIMA,1,1,True,0.7477917422556347,0.7477917422556347,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Day Case Unit,2025-12-30,0.875,0.8252216408719585,SARIMA,1,1,True,0.8252216408719585,0.8252216408719585,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Day Case Unit,2025-12-31,0.3333333333333333,0.7577943460457006,SARIMA,1,1,True,0.7577943460457006,0.7577943460457006,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward B,2025-12-25,31.041666666666668,32.90595214107309,SARIMA,14,14,True,2.350425152933792,2.350425152933792,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward B,2025-12-26,33.25,32.33387630372016,SARIMA,14,14,True,2.3095625931228687,2.3095625931228687,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward B,2025-12-27,29.041666666666668,33.072700100690746,SARIMA,14,14,True,2.3623357214779106,2.3623357214779106,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward B,2025-12-28,30.375,33.626777813683304,SARIMA,14,14,True,2.401912700977379,2.401912700977379,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward B,2025-12-29,29.0,33.13786888246103,SARIMA,14,14,True,2.366990634461502,2.366990634461502,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward B,2025-12-30,31.70833333333333,33.58509890553767,SARIMA,14,14,True,2.3989356361098335,2.3989356361098335,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward B,2025-12-31,34.75,33.608260988567615,SARIMA,14,14,True,2.4005900706119725,2.4005900706119725,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward B,2025-12-25,21.875,21.796868571498155,SARIMA,13,13,True,1.6766821978075503,1.6766821978075503,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward B,2025-12-26,21.166666666666668,21.935801275031903,SARIMA,13,13,True,1.6873693288486078,1.6873693288486078,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward B,2025-12-27,18.541666666666668,20.22267213811126,SARIMA,13,13,True,1.555590164470097,1.555590164470097,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward B,2025-12-28,16.083333333333332,18.11842697493239,SARIMA,13,13,True,1.3937251519178762,1.3937251519178762,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward B,2025-12-29,17.833333333333332,17.92642114040141,SARIMA,13,13,True,1.37895547233857,1.37895547233857,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward B,2025-12-30,22.625,19.63595991056171,SARIMA,13,13,True,1.510458454658593,1.510458454658593,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward B,2025-12-31,20.875,21.68502912489502,SARIMA,13,13,True,1.668079163453463,1.668079163453463,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_ICU,2025-12-25,9.0,8.829255070732128,Holt-Winters,12,12,True,0.735771255894344,0.735771255894344,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_ICU,2025-12-26,9.0,8.647889612407408,Holt-Winters,12,12,True,0.7206574677006173,0.7206574677006173,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_ICU,2025-12-27,8.5,8.643811498725062,Holt-Winters,12,12,True,0.7203176248937552,0.7203176248937552,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_ICU,2025-12-28,7.541666666666667,8.75940848869814,Holt-Winters,12,12,True,0.7299507073915117,0.7299507073915117,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_ICU,2025-12-29,8.791666666666666,8.875401021642483,Holt-Winters,12,12,True,0.7396167518035403,0.7396167518035403,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_ICU,2025-12-30,8.958333333333334,8.936492473589661,Holt-Winters,12,12,True,0.7447077061324717,0.7447077061324717,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_ICU,2025-12-31,8.916666666666666,8.91628676742611,Holt-Winters,12,12,True,0.7430238972855091,0.7430238972855091,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_ICU,2025-12-25,6.333333333333333,7.100481531587418,Holt-Winters,11,11,True,0.6454983210534017,0.6454983210534017,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_ICU,2025-12-26,7.791666666666667,7.107012427672848,Holt-Winters,11,11,True,0.6460920388793499,0.6460920388793499,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_ICU,2025-12-27,7.916666666666667,7.254880749738465,Holt-Winters,11,11,True,0.6595346136125877,0.6595346136125877,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_ICU,2025-12-28,7.791666666666667,7.3251317177529,Holt-Winters,11,11,True,0.6659210652502636,0.6659210652502636,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_ICU,2025-12-29,7.958333333333333,7.370881939942925,Holt-Winters,11,11,True,0.6700801763584477,0.6700801763584477,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_ICU,2025-12-30,7.916666666666667,7.241046553303171,Holt-Winters,11,11,True,0.6582769593911973,0.6582769593911973,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_ICU,2025-12-31,7.916666666666667,7.153675482902055,Holt-Winters,11,11,True,0.6503341348092777,0.6503341348092777,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_ICU,2025-12-25,17.75,16.42078843162028,Holt-Winters,24,24,True,0.6841995179841783,0.6841995179841783,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_ICU,2025-12-26,17.958333333333332,16.604238218523605,Holt-Winters,24,24,True,0.6918432591051502,0.6918432591051502,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_ICU,2025-12-27,17.708333333333332,16.62421068910054,Holt-Winters,24,24,True,0.6926754453791891,0.6926754453791891,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_ICU,2025-12-28,17.833333333333332,16.999262924462354,Holt-Winters,24,24,True,0.7083026218525981,0.7083026218525981,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_ICU,2025-12-29,17.958333333333332,17.172120405853615,Holt-Winters,24,24,True,0.7155050169105673,0.7155050169105673,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_ICU,2025-12-30,17.916666666666668,17.087987576686917,Holt-Winters,24,24,True,0.7119994823619549,0.7119994823619549,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_ICU,2025-12-31,17.666666666666668,17.0503855918133,Holt-Winters,24,24,True,0.7104327329922208,0.7104327329922208,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_ICU,2025-12-25,9.875,9.86724302739844,Holt-Winters,13,13,True,0.7590186944152646,0.7590186944152646,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_ICU,2025-12-26,9.916666666666666,9.810057673256932,Holt-Winters,13,13,True,0.754619821019764,0.754619821019764,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_ICU,2025-12-27,9.833333333333334,9.745120851458902,Holt-Winters,13,13,True,0.749624680881454,0.749624680881454,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_ICU,2025-12-28,9.791666666666666,9.785162396457244,Holt-Winters,13,13,True,0.7527047997274803,0.7527047997274803,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_ICU,2025-12-29,9.791666666666666,9.932228089590271,Holt-Winters,13,13,True,0.7640175453530978,0.7640175453530978,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_ICU,2025-12-30,9.791666666666666,9.955278964848478,Holt-Winters,13,13,True,0.7657906896037291,0.7657906896037291,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_ICU,2025-12-31,9.041666666666666,9.958333333333334,Holt-Winters,13,13,True,0.7660256410256411,0.7660256410256411,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Cardiology Ward,2025-12-25,12.083333333333334,14.742630708464173,Holt-Winters,8,8,True,1.8428288385580216,1.8428288385580216,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Cardiology Ward,2025-12-26,12.458333333333334,14.468939515455476,Holt-Winters,8,8,True,1.8086174394319345,1.8086174394319345,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Cardiology Ward,2025-12-27,12.708333333333334,13.86557867665249,Holt-Winters,8,8,True,1.7331973345815612,1.7331973345815612,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Cardiology Ward,2025-12-28,15.125,13.303116201124016,Holt-Winters,8,8,True,1.662889525140502,1.662889525140502,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Cardiology Ward,2025-12-29,15.916666666666666,13.720237604585025,Holt-Winters,8,8,True,1.715029700573128,1.715029700573128,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Cardiology Ward,2025-12-30,15.833333333333334,14.341570365599264,Holt-Winters,8,8,True,1.792696295699908,1.792696295699908,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Cardiology Ward,2025-12-31,14.791666666666666,14.728203405335986,Holt-Winters,8,8,True,1.8410254256669982,1.8410254256669982,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Cardiology Ward,2025-12-25,23.875,23.875,Holt-Winters,11,11,True,2.1704545454545454,2.1704545454545454,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Cardiology Ward,2025-12-26,23.625,23.875,Holt-Winters,11,11,True,2.1704545454545454,2.1704545454545454,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Cardiology Ward,2025-12-27,23.58333333333333,23.42686703459669,Holt-Winters,11,11,True,2.1297151849633353,2.1297151849633353,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Cardiology Ward,2025-12-28,23.58333333333333,22.645885961352867,Holt-Winters,11,11,True,2.0587169055775334,2.0587169055775334,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Cardiology Ward,2025-12-29,22.0,22.95224784585499,Holt-Winters,11,11,True,2.0865679859868176,2.0865679859868176,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Cardiology Ward,2025-12-30,21.45833333333333,23.580843854034068,Holt-Winters,11,11,True,2.1437130776394606,2.1437130776394606,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Cardiology Ward,2025-12-31,23.5,23.875,Holt-Winters,11,11,True,2.1704545454545454,2.1704545454545454,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Oncology Ward,2025-12-25,11.083333333333334,12.90766988465294,Holt-Winters,9,9,True,1.4341855427392156,1.4341855427392156,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Oncology Ward,2025-12-26,11.458333333333334,12.891741757640183,Holt-Winters,9,9,True,1.4324157508489093,1.4324157508489093,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Oncology Ward,2025-12-27,11.083333333333334,12.26918291921301,Holt-Winters,9,9,True,1.3632425465792233,1.3632425465792233,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Oncology Ward,2025-12-28,10.083333333333334,11.455447353157233,Holt-Winters,9,9,True,1.272827483684137,1.272827483684137,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Oncology Ward,2025-12-29,10.458333333333334,11.508147122155904,Holt-Winters,9,9,True,1.2786830135728782,1.2786830135728782,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Oncology Ward,2025-12-30,9.791666666666666,12.148117467079746,Holt-Winters,9,9,True,1.3497908296755274,1.3497908296755274,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Oncology Ward,2025-12-31,9.625,12.542923165587156,Holt-Winters,9,9,True,1.3936581295096842,1.3936581295096842,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Oncology Ward,2025-12-25,12.666666666666666,12.219350204932573,Holt-Winters,6,6,True,2.036558367488762,2.036558367488762,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Oncology Ward,2025-12-26,11.541666666666666,12.37415556809853,Holt-Winters,6,6,True,2.062359261349755,2.062359261349755,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Oncology Ward,2025-12-27,9.875,12.084925909803427,Holt-Winters,6,6,True,2.0141543183005712,2.0141543183005712,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Oncology Ward,2025-12-28,11.125,11.542435043645366,Holt-Winters,6,6,True,1.9237391739408942,1.9237391739408942,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Oncology Ward,2025-12-29,11.625,11.469718234138394,Holt-Winters,6,6,True,1.9116197056897324,1.9116197056897324,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Oncology Ward,2025-12-30,12.583333333333334,11.930479311293793,Holt-Winters,6,6,True,1.9884132185489654,1.9884132185489654,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Oncology Ward,2025-12-31,12.791666666666666,12.107681619942069,Holt-Winters,6,6,True,2.0179469366570113,2.0179469366570113,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward A,2025-12-25,15.958333333333334,15.583745768274866,Holt-Winters,6,6,True,2.5972909613791444,2.5972909613791444,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward A,2025-12-26,15.791666666666666,15.515086498305491,Holt-Winters,6,6,True,2.585847749717582,2.585847749717582,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward A,2025-12-27,15.916666666666666,15.67314034250274,Holt-Winters,6,6,True,2.6121900570837897,2.6121900570837897,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward A,2025-12-28,15.708333333333334,15.983203685572626,Holt-Winters,6,6,True,2.663867280928771,2.663867280928771,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward A,2025-12-29,15.708333333333334,16.0,Holt-Winters,6,6,True,2.6666666666666665,2.6666666666666665,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward A,2025-12-30,16.0,16.0,Holt-Winters,6,6,True,2.6666666666666665,2.6666666666666665,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward A,2025-12-31,15.791666666666666,15.843246691974178,Holt-Winters,6,6,True,2.6405411153290297,2.6405411153290297,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward A,2025-12-25,16.708333333333332,16.80481364893421,Holt-Winters,7,7,True,2.4006876641334585,2.4006876641334585,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward A,2025-12-26,16.916666666666668,16.958333333333332,Holt-Winters,7,7,True,2.4226190476190474,2.4226190476190474,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward A,2025-12-27,16.666666666666668,16.943548027827575,Holt-Winters,7,7,True,2.4205068611182248,2.4205068611182248,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward A,2025-12-28,16.708333333333332,16.952877308764116,Holt-Winters,7,7,True,2.421839615537731,2.421839615537731,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward A,2025-12-29,16.833333333333332,16.958333333333332,Holt-Winters,7,7,True,2.4226190476190474,2.4226190476190474,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward A,2025-12-30,16.708333333333332,16.958333333333332,Holt-Winters,7,7,True,2.4226190476190474,2.4226190476190474,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward A,2025-12-31,16.958333333333332,16.856613934365683,Holt-Winters,7,7,True,2.4080877049093834,2.4080877049093834,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward A,2025-12-25,17.791666666666668,17.6319370248027,Holt-Winters,7,6,False,2.518848146400386,2.9386561708004497,Safe,Historically Unsafe,Unsafe
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward A,2025-12-26,17.791666666666668,17.373391648842983,Holt-Winters,7,6,False,2.4819130926918547,2.8955652748071636,Safe,Historically Unsafe,Unsafe
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward A,2025-12-27,17.625,17.520048424946133,Holt-Winters,7,6,False,2.50286406070659,2.9200080708243554,Safe,Historically Unsafe,Unsafe
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward A,2025-12-28,17.833333333333332,17.80273057558781,Holt-Winters,7,6,False,2.543247225083973,2.967121762597968,Safe,Historically Unsafe,Unsafe
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward A,2025-12-29,17.833333333333332,17.916666666666668,Holt-Winters,7,6,False,2.5595238095238098,2.986111111111111,Safe,Historically Unsafe,Unsafe
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward A,2025-12-30,17.666666666666668,17.916666666666668,Holt-Winters,7,6,False,2.5595238095238098,2.986111111111111,Safe,Historically Unsafe,Unsafe
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward A,2025-12-31,17.916666666666668,17.916666666666668,Holt-Winters,7,6,False,2.5595238095238098,2.986111111111111,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-25,16.666666666666668,17.862682987339586,Holt-Winters,8,6,False,2.232835373417448,2.977113831223264,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-26,17.666666666666668,17.90261500493815,Holt-Winters,8,6,False,2.2378268756172686,2.9837691674896916,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-27,20.625,17.905475920632043,Holt-Winters,8,6,False,2.2381844900790053,2.9842459867720073,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-28,18.666666666666668,18.392302267883185,Holt-Winters,8,6,False,2.299037783485398,3.065383711313864,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-29,20.791666666666668,18.68937512811914,Holt-Winters,8,6,False,2.3361718910148923,3.114895854686523,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-30,20.791666666666668,18.57985990434573,Holt-Winters,8,6,False,2.3224824880432164,3.096643317390955,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-31,20.916666666666668,18.145499004941662,Holt-Winters,8,6,False,2.268187375617708,3.0242498341569437,Safe,Historically Unsafe,Unsafe
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward B,2025-12-25,16.916666666666668,17.0,Holt-Winters,7,7,True,2.4285714285714284,2.4285714285714284,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward B,2025-12-26,16.916666666666668,17.0,Holt-Winters,7,7,True,2.4285714285714284,2.4285714285714284,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward B,2025-12-27,17.0,17.0,Holt-Winters,7,7,True,2.4285714285714284,2.4285714285714284,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward B,2025-12-28,14.875,17.0,Holt-Winters,7,7,True,2.4285714285714284,2.4285714285714284,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward B,2025-12-29,13.916666666666666,17.0,Holt-Winters,7,7,True,2.4285714285714284,2.4285714285714284,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward B,2025-12-30,16.791666666666668,17.0,Holt-Winters,7,7,True,2.4285714285714284,2.4285714285714284,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_General Medicine Ward B,2025-12-31,15.5,16.95377432637433,Holt-Winters,7,7,True,2.4219677609106185,2.4219677609106185,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward B,2025-12-25,20.625,20.511796204381145,Holt-Winters,8,7,False,2.563974525547643,2.930256600625878,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward B,2025-12-26,18.25,20.28760623272694,Holt-Winters,8,7,False,2.5359507790908675,2.898229461818134,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward B,2025-12-27,20.70833333333333,20.48432220712123,Holt-Winters,8,7,False,2.560540275890154,2.9263317438744614,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward B,2025-12-28,21.0,20.88087430509973,Holt-Winters,8,7,False,2.6101092881374663,2.9829820435856758,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward B,2025-12-29,20.75,21.0,Holt-Winters,8,7,False,2.625,3.0,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward B,2025-12-30,20.58333333333333,21.0,Holt-Winters,8,7,False,2.625,3.0,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward B,2025-12-31,20.541666666666668,20.723135898533613,Holt-Winters,8,7,False,2.5903919873167016,2.960447985504802,Safe,Historically Unsafe,Unsafe
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward A,2025-12-25,10.958333333333334,10.958333333333334,Holt-Winters,5,4,False,2.191666666666667,2.7395833333333335,Safe,Historically Unsafe,Unsafe
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward A,2025-12-26,10.875,10.958333333333334,Holt-Winters,5,4,False,2.191666666666667,2.7395833333333335,Safe,Historically Unsafe,Unsafe
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward A,2025-12-27,10.958333333333334,10.951380378444885,Holt-Winters,5,4,False,2.1902760756889768,2.737845094611221,Safe,Historically Unsafe,Unsafe
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward A,2025-12-28,10.958333333333334,10.701784920801108,Holt-Winters,5,4,False,2.1403569841602215,2.675446230200277,Safe,Historically Unsafe,Unsafe
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward A,2025-12-29,10.958333333333334,10.886839391522582,Holt-Winters,5,4,False,2.1773678783045165,2.7217098478806454,Safe,Historically Unsafe,Unsafe
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward A,2025-12-30,10.75,10.933368400342005,Holt-Winters,5,4,False,2.186673680068401,2.733342100085501,Safe,Historically Unsafe,Unsafe
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward A,2025-12-31,10.958333333333334,10.958333333333334,Holt-Winters,5,4,False,2.191666666666667,2.7395833333333335,Safe,Historically Unsafe,Unsafe
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward A,2025-12-25,9.875,10.0,Holt-Winters,4,4,True,2.5,2.5,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward A,2025-12-26,10.0,9.99219698355448,Holt-Winters,4,4,True,2.49804924588862,2.49804924588862,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward A,2025-12-27,9.875,9.695667607019653,Holt-Winters,4,4,True,2.423916901754913,2.423916901754913,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward A,2025-12-28,9.833333333333334,9.19685376944576,Holt-Winters,4,4,True,2.29921344236144,2.29921344236144,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward A,2025-12-29,9.875,9.25279282908185,Holt-Winters,4,4,True,2.3131982072704624,2.3131982072704624,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward A,2025-12-30,9.791666666666666,9.611292341800263,Holt-Winters,4,4,True,2.402823085450066,2.402823085450066,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward A,2025-12-31,9.958333333333334,9.95511549352148,Holt-Winters,4,4,True,2.48877887338037,2.48877887338037,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward A,2025-12-25,12.0,11.915433431968456,Holt-Winters,5,5,True,2.3830866863936913,2.3830866863936913,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward A,2025-12-26,11.875,11.797736383621675,Holt-Winters,5,5,True,2.359547276724335,2.359547276724335,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward A,2025-12-27,11.708333333333334,11.56688176060132,Holt-Winters,5,5,True,2.313376352120264,2.313376352120264,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward A,2025-12-28,11.916666666666666,11.425521290490927,Holt-Winters,5,5,True,2.2851042580981855,2.2851042580981855,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward A,2025-12-29,11.25,11.468042054798074,Holt-Winters,5,5,True,2.2936084109596147,2.2936084109596147,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward A,2025-12-30,11.333333333333334,11.722951714753997,Holt-Winters,5,5,True,2.3445903429507995,2.3445903429507995,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward A,2025-12-31,11.833333333333334,11.871042962036146,Holt-Winters,5,5,True,2.3742085924072294,2.3742085924072294,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward A,2025-12-25,24.666666666666668,22.41020891164196,Holt-Winters,13,10,False,1.7238622239724584,2.241020891164196,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward A,2025-12-26,21.791666666666668,22.606225701302645,Holt-Winters,13,10,False,1.738940438561742,2.2606225701302645,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward A,2025-12-27,20.45833333333333,20.728042003112503,Holt-Winters,13,10,False,1.5944647694701926,2.0728042003112503,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward A,2025-12-28,20.125,18.34947665460853,Holt-Winters,13,10,False,1.411498204200656,1.834947665460853,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward A,2025-12-29,20.75,18.376105188373025,Holt-Winters,13,10,False,1.4135465529517712,1.8376105188373024,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward A,2025-12-30,18.625,20.001004091379727,Holt-Winters,13,10,False,1.538538776259979,2.0001004091379726,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Orthopaedics Ward A,2025-12-31,15.083333333333334,21.37347142582896,Holt-Winters,13,10,False,1.6441131866022276,2.137347142582896,Safe,Historically Unsafe,Unsafe
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward B,2025-12-25,9.458333333333334,9.826365276303225,Holt-Winters,4,4,True,2.456591319075806,2.456591319075806,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward B,2025-12-26,9.875,9.806736452411435,Holt-Winters,4,4,True,2.451684113102859,2.451684113102859,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward B,2025-12-27,9.875,9.493008296471343,Holt-Winters,4,4,True,2.373252074117836,2.373252074117836,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward B,2025-12-28,10.0,9.422327150320124,Holt-Winters,4,4,True,2.355581787580031,2.355581787580031,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward B,2025-12-29,9.958333333333334,9.42026855418034,Holt-Winters,4,4,True,2.355067138545085,2.355067138545085,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward B,2025-12-30,9.791666666666666,9.597873957799033,Holt-Winters,4,4,True,2.399468489449758,2.399468489449758,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Orthopaedics Ward B,2025-12-31,9.833333333333334,9.760915130375862,Holt-Winters,4,4,True,2.4402287825939655,2.4402287825939655,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward B,2025-12-25,26.70833333333333,27.875,Holt-Winters,12,10,False,2.3229166666666665,2.7875,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward B,2025-12-26,24.666666666666668,27.875,Holt-Winters,12,10,False,2.3229166666666665,2.7875,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward B,2025-12-27,19.875,27.760150993226908,Holt-Winters,12,10,False,2.3133459161022425,2.7760150993226906,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward B,2025-12-28,23.75,26.620164058208307,Holt-Winters,12,10,False,2.2183470048506924,2.6620164058208307,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward B,2025-12-29,27.95833333333333,26.11052079945988,Holt-Winters,12,10,False,2.1758767332883235,2.611052079945988,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward B,2025-12-30,27.08333333333333,26.87641051677503,Holt-Winters,12,10,False,2.239700876397919,2.6876410516775033,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward B,2025-12-31,25.791666666666668,27.75011538745356,Holt-Winters,12,10,False,2.31250961562113,2.775011538745356,Safe,Historically Unsafe,Unsafe
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-02,7.541666666666667,7.5852594,XGBoost,16,16,True,0.4740787125,0.4740787125,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-03,7.083333333333333,8.763119,XGBoost,16,16,True,0.5476949375,0.5476949375,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-04,9.291666666666666,8.126135,XGBoost,16,16,True,0.5078834375,0.5078834375,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-05,10.291666666666666,8.39662,XGBoost,16,16,True,0.52478875,0.52478875,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-06,9.875,8.49592,XGBoost,16,16,True,0.530995,0.530995,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-07,9.958333333333334,8.399203,XGBoost,16,16,True,0.5249501875,0.5249501875,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-08,9.916666666666666,10.03087,XGBoost,16,16,True,0.626929375,0.626929375,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-09,11.416666666666666,9.890983,XGBoost,16,16,True,0.6181864375,0.6181864375,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-10,11.875,10.49463,XGBoost,16,16,True,0.655914375,0.655914375,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-11,11.875,9.805775,XGBoost,16,16,True,0.6128609375,0.6128609375,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-12,10.791666666666666,9.595297,XGBoost,16,16,True,0.5997060625,0.5997060625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-13,10.333333333333334,10.390309,XGBoost,16,16,True,0.6493943125,0.6493943125,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-14,11.833333333333334,10.413299,XGBoost,16,16,True,0.6508311875,0.6508311875,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-15,11.958333333333334,11.180444,XGBoost,16,16,True,0.69877775,0.69877775,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-16,12.0,10.96732,XGBoost,16,16,True,0.6854575,0.6854575,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-17,11.916666666666666,11.12249,XGBoost,16,16,True,0.695155625,0.695155625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-18,11.791666666666666,10.828342,XGBoost,16,16,True,0.676771375,0.676771375,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-19,11.875,10.838186,XGBoost,16,16,True,0.677386625,0.677386625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-20,11.791666666666666,10.971348,XGBoost,16,16,True,0.68570925,0.68570925,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-21,11.875,10.93587,XGBoost,16,16,True,0.683491875,0.683491875,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-22,10.5,11.204433,XGBoost,16,16,True,0.7002770625,0.7002770625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-23,9.083333333333334,10.642715,XGBoost,16,16,True,0.6651696875,0.6651696875,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-24,8.708333333333334,10.495194,XGBoost,16,16,True,0.655949625,0.655949625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-25,10.375,9.582412,XGBoost,16,16,True,0.59890075,0.59890075,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-26,10.166666666666666,9.369437,XGBoost,16,16,True,0.5855898125,0.5855898125,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-27,7.583333333333333,8.921191,XGBoost,16,16,True,0.5575744375,0.5575744375,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-28,7.041666666666667,8.368386,XGBoost,16,16,True,0.523024125,0.523024125,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-29,8.416666666666666,9.235774,XGBoost,16,16,True,0.577235875,0.577235875,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-30,8.375,8.68376,XGBoost,16,16,True,0.542735,0.542735,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_ICU,2025-12-31,9.666666666666666,9.043089,XGBoost,16,16,True,0.5651930625,0.5651930625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-02,17.958333333333332,17.902212,XGBoost,8,8,True,2.2377765,2.2377765,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-03,17.833333333333332,17.895193,XGBoost,8,8,True,2.236899125,2.236899125,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-04,17.833333333333332,17.882357,XGBoost,8,8,True,2.235294625,2.235294625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-05,17.958333333333332,17.874517,XGBoost,8,8,True,2.234314625,2.234314625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-06,17.958333333333332,17.842218,XGBoost,8,8,True,2.23027725,2.23027725,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-07,17.666666666666668,17.767805,XGBoost,8,8,True,2.220975625,2.220975625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-08,17.875,17.767502,XGBoost,8,8,True,2.22093775,2.22093775,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-09,17.791666666666668,17.873657,XGBoost,8,8,True,2.234207125,2.234207125,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-10,17.916666666666668,17.654268,XGBoost,8,8,True,2.2067835,2.2067835,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-11,17.916666666666668,17.888327,XGBoost,8,8,True,2.236040875,2.236040875,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-12,17.666666666666668,17.791578,XGBoost,8,8,True,2.22394725,2.22394725,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-13,17.916666666666668,17.711304,XGBoost,8,8,True,2.213913,2.213913,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-14,17.791666666666668,17.7772,XGBoost,8,8,True,2.22215,2.22215,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-15,17.791666666666668,17.691757,XGBoost,8,8,True,2.211469625,2.211469625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-16,17.75,17.845188,XGBoost,8,8,True,2.2306485,2.2306485,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-17,17.625,17.796661,XGBoost,8,8,True,2.224582625,2.224582625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-18,17.916666666666668,17.78173,XGBoost,8,8,True,2.22271625,2.22271625,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-19,17.708333333333332,17.759825,XGBoost,8,8,True,2.219978125,2.219978125,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-20,17.833333333333332,17.689394,XGBoost,8,8,True,2.21117425,2.21117425,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-21,17.75,17.697426,XGBoost,8,8,True,2.21217825,2.21217825,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-22,17.75,17.74931,XGBoost,8,8,True,2.21866375,2.21866375,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-23,17.916666666666668,17.774483,XGBoost,8,8,True,2.221810375,2.221810375,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-24,17.833333333333332,17.816864,XGBoost,8,8,True,2.227108,2.227108,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-25,17.833333333333332,17.82883,XGBoost,8,8,True,2.22860375,2.22860375,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-26,17.75,17.754038,XGBoost,8,8,True,2.21925475,2.21925475,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-27,17.833333333333332,17.718903,XGBoost,8,8,True,2.214862875,2.214862875,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-28,17.791666666666668,17.789574,XGBoost,8,8,True,2.22369675,2.22369675,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-29,17.916666666666668,17.903564,XGBoost,8,8,True,2.2379455,2.2379455,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-30,17.875,17.664722,XGBoost,8,8,True,2.20809025,2.20809025,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Cardiology Ward,2025-12-31,17.625,17.61937,XGBoost,8,8,True,2.20242125,2.20242125,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-02,31.25,26.00272,XGBoost,19,19,True,1.3685642105263158,1.3685642105263158,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-03,35.958333333333336,30.578405,XGBoost,19,19,True,1.6093897368421053,1.6093897368421053,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-04,37.75,32.689713,XGBoost,19,19,True,1.7205112105263156,1.7205112105263156,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-05,37.875,33.733234,XGBoost,19,19,True,1.7754333684210528,1.7754333684210528,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-06,37.25,33.72105,XGBoost,19,19,True,1.774792105263158,1.774792105263158,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-07,33.583333333333336,34.31233,XGBoost,19,19,True,1.8059121052631582,1.8059121052631582,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-08,30.916666666666668,30.920443,XGBoost,19,19,True,1.6273917368421051,1.6273917368421051,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-09,35.25,32.29557,XGBoost,19,19,True,1.699766842105263,1.699766842105263,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-10,37.54166666666666,32.13716,XGBoost,19,19,True,1.6914294736842106,1.6914294736842106,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-11,37.91666666666666,31.963621,XGBoost,19,19,True,1.6822958421052632,1.6822958421052632,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-12,37.958333333333336,31.948378,XGBoost,19,19,True,1.6814935789473686,1.6814935789473686,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-13,36.0,32.07836,XGBoost,19,19,True,1.6883347368421056,1.6883347368421056,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-14,30.20833333333333,31.38773,XGBoost,19,19,True,1.6519857894736842,1.6519857894736842,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-15,32.666666666666664,31.921558,XGBoost,19,19,True,1.680082,1.680082,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-16,32.833333333333336,31.234352,XGBoost,19,19,True,1.6439132631578948,1.6439132631578948,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-17,31.125,29.675583,XGBoost,19,19,True,1.5618727894736841,1.5618727894736841,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-18,31.75,30.000122,XGBoost,19,19,True,1.5789537894736843,1.5789537894736843,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-19,33.625,30.027071,XGBoost,19,19,True,1.5803721578947367,1.5803721578947367,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-20,31.666666666666668,29.130043,XGBoost,19,19,True,1.533160157894737,1.533160157894737,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-21,28.83333333333333,30.265312,XGBoost,19,19,True,1.592911157894737,1.592911157894737,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-22,31.25,27.278221,XGBoost,19,19,True,1.435695842105263,1.435695842105263,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-23,29.83333333333333,26.815844,XGBoost,19,19,True,1.4113602105263157,1.4113602105263157,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-24,25.70833333333333,28.881899,XGBoost,19,19,True,1.5200999473684211,1.5200999473684211,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-25,22.33333333333333,27.343094,XGBoost,19,19,True,1.4391102105263158,1.4391102105263158,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-26,20.291666666666668,25.631756,XGBoost,19,19,True,1.349039789473684,1.349039789473684,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-27,22.25,25.419481,XGBoost,19,19,True,1.3378674210526316,1.3378674210526316,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-28,24.0,23.04677,XGBoost,19,19,True,1.212987894736842,1.212987894736842,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-29,25.416666666666668,24.010843,XGBoost,19,19,True,1.2637285789473685,1.2637285789473685,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-30,23.08333333333333,23.506056,XGBoost,19,19,True,1.2371608421052631,1.2371608421052631,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Oncology Ward,2025-12-31,22.45833333333333,22.790201,XGBoost,19,19,True,1.1994842631578948,1.1994842631578948,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-02,31.166666666666668,27.6131,XGBoost,29,29,True,0.9521758620689655,0.9521758620689655,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-03,33.541666666666664,29.893587,XGBoost,29,29,True,1.0308133448275862,1.0308133448275862,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-04,32.791666666666664,31.671299,XGBoost,29,29,True,1.0921137586206897,1.0921137586206897,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-05,34.583333333333336,34.49268,XGBoost,29,29,True,1.1894027586206897,1.1894027586206897,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-06,32.75,31.816658,XGBoost,29,29,True,1.0971261379310344,1.0971261379310344,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-07,31.75,30.173395,XGBoost,29,29,True,1.040461896551724,1.040461896551724,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-08,29.83333333333333,28.861439,XGBoost,29,29,True,0.9952220344827587,0.9952220344827587,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-09,28.08333333333333,29.799314,XGBoost,29,29,True,1.0275625517241378,1.0275625517241378,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-10,28.416666666666668,31.52794,XGBoost,29,29,True,1.0871703448275862,1.0871703448275862,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-11,29.0,32.099434,XGBoost,29,29,True,1.1068770344827588,1.1068770344827588,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-12,28.45833333333333,30.767729,XGBoost,29,29,True,1.060956172413793,1.060956172413793,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-13,30.25,30.204987,XGBoost,29,29,True,1.0415512758620689,1.0415512758620689,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-14,25.541666666666668,26.192682,XGBoost,29,29,True,0.9031959310344828,0.9031959310344828,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-15,28.666666666666668,23.31738,XGBoost,29,29,True,0.8040475862068965,0.8040475862068965,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-16,28.0,24.969975,XGBoost,29,29,True,0.8610336206896553,0.8610336206896553,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-17,27.375,28.011889,XGBoost,29,29,True,0.9659272068965518,0.9659272068965518,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-18,29.875,29.531265,XGBoost,29,29,True,1.0183194827586208,1.0183194827586208,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-19,28.25,29.397696,XGBoost,29,29,True,1.0137136551724137,1.0137136551724137,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-20,25.33333333333333,28.792305,XGBoost,29,29,True,0.9928381034482758,0.9928381034482758,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-21,21.625,24.574276,XGBoost,29,29,True,0.8473888275862069,0.8473888275862069,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-22,24.916666666666668,22.357695,XGBoost,29,29,True,0.770955,0.770955,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-23,25.0,22.38811,XGBoost,29,29,True,0.7720037931034484,0.7720037931034484,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-24,27.166666666666668,25.909296,XGBoost,29,29,True,0.893424,0.893424,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-25,22.75,25.513906,XGBoost,29,29,True,0.8797898620689655,0.8797898620689655,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-26,17.708333333333332,24.914183,XGBoost,29,29,True,0.8591097586206897,0.8591097586206897,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-27,14.541666666666666,23.106464,XGBoost,29,29,True,0.7967746206896551,0.7967746206896551,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-28,14.75,20.142405,XGBoost,29,29,True,0.6945656896551724,0.6945656896551724,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-29,17.125,18.111504,XGBoost,29,29,True,0.6245346206896552,0.6245346206896552,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-30,20.20833333333333,17.455902,XGBoost,29,29,True,0.6019276551724138,0.6019276551724138,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Oncology Ward,2025-12-31,22.291666666666668,18.194191,XGBoost,29,29,True,0.6273858965517242,0.6273858965517242,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-02,19.666666666666668,16.235588,XGBoost,10,10,True,1.6235588,1.6235588,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-03,19.83333333333333,17.663773,XGBoost,10,10,True,1.7663772999999998,1.7663772999999998,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-04,18.08333333333333,17.746004,XGBoost,10,10,True,1.7746004,1.7746004,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-05,18.0,18.471794,XGBoost,10,10,True,1.8471794,1.8471794,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-06,19.625,18.969149,XGBoost,10,10,True,1.8969149,1.8969149,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-07,19.83333333333333,19.001205,XGBoost,10,10,True,1.9001204999999999,1.9001204999999999,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-08,19.70833333333333,19.04588,XGBoost,10,10,True,1.904588,1.904588,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-09,19.70833333333333,18.676235,XGBoost,10,10,True,1.8676234999999999,1.8676234999999999,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-10,19.666666666666668,18.449608,XGBoost,10,10,True,1.8449608000000002,1.8449608000000002,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-11,19.416666666666668,19.368397,XGBoost,10,10,True,1.9368397000000002,1.9368397000000002,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-12,19.83333333333333,19.494682,XGBoost,10,10,True,1.9494682,1.9494682,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-13,19.75,19.453865,XGBoost,10,10,True,1.9453865000000001,1.9453865000000001,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-14,19.83333333333333,18.897528,XGBoost,10,10,True,1.8897528000000001,1.8897528000000001,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-15,18.875,18.894905,XGBoost,10,10,True,1.8894905000000002,1.8894905000000002,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-16,17.708333333333332,18.052782,XGBoost,10,10,True,1.8052782,1.8052782,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-17,19.5,18.417122,XGBoost,10,10,True,1.8417122,1.8417122,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-18,19.875,18.883049,XGBoost,10,10,True,1.8883049,1.8883049,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-19,19.375,18.135319,XGBoost,10,10,True,1.8135318999999999,1.8135318999999999,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-20,19.83333333333333,18.20818,XGBoost,10,10,True,1.8208179999999998,1.8208179999999998,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-21,19.541666666666668,17.880487,XGBoost,10,10,True,1.7880486999999998,1.7880486999999998,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-22,19.83333333333333,18.651188,XGBoost,10,10,True,1.8651188,1.8651188,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-23,18.041666666666668,18.766481,XGBoost,10,10,True,1.8766481,1.8766481,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-24,18.166666666666668,18.114458,XGBoost,10,10,True,1.8114458,1.8114458,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-25,17.125,17.075655,XGBoost,10,10,True,1.7075655,1.7075655,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-26,14.708333333333334,16.938032,XGBoost,10,10,True,1.6938032,1.6938032,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-27,17.375,15.552436,XGBoost,10,10,True,1.5552436,1.5552436,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-28,17.75,15.087979,XGBoost,10,10,True,1.5087979,1.5087979,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-29,18.33333333333333,16.065033,XGBoost,10,10,True,1.6065033,1.6065033,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-30,19.875,16.542786,XGBoost,10,10,True,1.6542786,1.6542786,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Oncology Ward,2025-12-31,19.625,17.042555,XGBoost,10,10,True,1.7042555,1.7042555,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-02,0.5833333333333334,0.5493832,XGBoost,1,1,True,0.5493832,0.5493832,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-03,0.375,0.51530105,XGBoost,1,1,True,0.51530105,0.51530105,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-04,0.2083333333333333,0.58412397,XGBoost,1,1,True,0.58412397,0.58412397,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-05,0.2083333333333333,0.40890333,XGBoost,1,1,True,0.40890333,0.40890333,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-06,0.0,0.022760382,XGBoost,1,1,True,0.022760382,0.022760382,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-07,0.1666666666666666,0.21720892,XGBoost,1,1,True,0.21720892,0.21720892,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-08,0.4166666666666667,0.42108613,XGBoost,1,1,True,0.42108613,0.42108613,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-09,0.5833333333333334,0.52218217,XGBoost,1,1,True,0.52218217,0.52218217,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-10,0.9583333333333334,0.5858852,XGBoost,1,1,True,0.5858852,0.5858852,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-11,0.4583333333333333,0.6444116,XGBoost,1,1,True,0.6444116,0.6444116,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-12,0.1666666666666666,0.4780247,XGBoost,1,1,True,0.4780247,0.4780247,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-13,0.3333333333333333,0.22612286,XGBoost,1,1,True,0.22612286,0.22612286,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-14,0.0,0.036007795,XGBoost,1,1,True,0.036007795,0.036007795,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-15,0.1666666666666666,0.48261815,XGBoost,1,1,True,0.48261815,0.48261815,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-16,0.2083333333333333,0.66478246,XGBoost,1,1,True,0.66478246,0.66478246,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-17,0.7916666666666666,0.51504564,XGBoost,1,1,True,0.51504564,0.51504564,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-18,0.5833333333333334,0.63859034,XGBoost,1,1,True,0.63859034,0.63859034,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-19,0.5833333333333334,0.4394084,XGBoost,1,1,True,0.4394084,0.4394084,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-20,0.4583333333333333,0.4168864,XGBoost,1,1,True,0.4168864,0.4168864,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-21,0.5833333333333334,0.39443666,XGBoost,1,1,True,0.39443666,0.39443666,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-22,0.0,0.071643755,XGBoost,1,1,True,0.071643755,0.071643755,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-23,0.0,0.10920861,XGBoost,1,1,True,0.10920861,0.10920861,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-24,0.2083333333333333,0.71498704,XGBoost,1,1,True,0.71498704,0.71498704,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-25,0.0,0.061445333,XGBoost,1,1,True,0.061445333,0.061445333,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-26,0.0,0.055786178,XGBoost,1,1,True,0.055786178,0.055786178,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-27,0.25,0.43842036,XGBoost,1,1,True,0.43842036,0.43842036,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-28,0.5416666666666666,0.4312098,XGBoost,1,1,True,0.4312098,0.4312098,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-29,0.125,0.2055831,XGBoost,1,1,True,0.2055831,0.2055831,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-30,0.1666666666666666,0.2738751,XGBoost,1,1,True,0.2738751,0.2738751,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Day Case Unit,2025-12-31,0.2083333333333333,0.3540682,XGBoost,1,1,True,0.3540682,0.3540682,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-02,0.4166666666666667,0.31339955,XGBoost,1,1,True,0.31339955,0.31339955,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-03,0.125,0.03843531,XGBoost,1,1,True,0.03843531,0.03843531,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-04,0.2083333333333333,0.31259036,XGBoost,1,1,True,0.31259036,0.31259036,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-05,0.4583333333333333,0.37555733,XGBoost,1,1,True,0.37555733,0.37555733,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-06,0.125,0.13683929,XGBoost,1,1,True,0.13683929,0.13683929,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-07,0.0,0.020084249,XGBoost,1,1,True,0.020084249,0.020084249,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-08,0.4166666666666667,0.27195233,XGBoost,1,1,True,0.27195233,0.27195233,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-09,0.2083333333333333,0.4257637,XGBoost,1,1,True,0.4257637,0.4257637,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-10,0.2916666666666667,0.33353707,XGBoost,1,1,True,0.33353707,0.33353707,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-11,0.375,0.39626506,XGBoost,1,1,True,0.39626506,0.39626506,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-12,0.7083333333333334,0.43655258,XGBoost,1,1,True,0.43655258,0.43655258,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-13,0.4166666666666667,0.33848107,XGBoost,1,1,True,0.33848107,0.33848107,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-14,0.4166666666666667,0.40979323,XGBoost,1,1,True,0.40979323,0.40979323,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-15,0.0,0.16747676,XGBoost,1,1,True,0.16747676,0.16747676,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-16,0.0,0.1898344,XGBoost,1,1,True,0.1898344,0.1898344,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-17,0.25,0.47991005,XGBoost,1,1,True,0.47991005,0.47991005,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-18,0.125,0.46669346,XGBoost,1,1,True,0.46669346,0.46669346,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-19,0.2083333333333333,0.10791741,XGBoost,1,1,True,0.10791741,0.10791741,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-20,0.2083333333333333,0.26377207,XGBoost,1,1,True,0.26377207,0.26377207,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-21,0.5416666666666666,0.18379602,XGBoost,1,1,True,0.18379602,0.18379602,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-22,0.875,0.45386678,XGBoost,1,1,True,0.45386678,0.45386678,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-23,0.2083333333333333,0.4388296,XGBoost,1,1,True,0.4388296,0.4388296,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-24,0.0,0.16563083,XGBoost,1,1,True,0.16563083,0.16563083,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-25,0.0833333333333333,0.3315764,XGBoost,1,1,True,0.3315764,0.3315764,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-26,0.5,0.37892088,XGBoost,1,1,True,0.37892088,0.37892088,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-27,0.0416666666666666,0.22132686,XGBoost,1,1,True,0.22132686,0.22132686,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-28,0.375,0.28481737,XGBoost,1,1,True,0.28481737,0.28481737,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-29,0.75,0.52995896,XGBoost,1,1,True,0.52995896,0.52995896,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-30,0.5,0.41963714,XGBoost,1,1,True,0.41963714,0.41963714,Safe,Historically Safe,Operationally Feasible
+Horizon Edinburgh,HHN-EDI-01,HHN-EDI-01_Day Case Unit,2025-12-31,0.2916666666666667,0.6321631,XGBoost,1,1,True,0.6321631,0.6321631,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-02,1.0416666666666667,0.8912519,XGBoost,1,1,True,0.8912519,0.8912519,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-03,0.75,0.7251873,XGBoost,1,1,True,0.7251873,0.7251873,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-04,0.5833333333333334,0.9350784,XGBoost,1,1,True,0.9350784,0.9350784,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-05,0.5833333333333334,0.92663634,XGBoost,1,1,True,0.92663634,0.92663634,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-06,0.2083333333333333,0.34587082,XGBoost,1,1,True,0.34587082,0.34587082,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-07,0.375,0.33957908,XGBoost,1,1,True,0.33957908,0.33957908,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-08,0.4166666666666667,0.63772935,XGBoost,1,1,True,0.63772935,0.63772935,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-09,0.0,0.20976727,XGBoost,1,1,True,0.20976727,0.20976727,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-10,0.75,0.5315829,XGBoost,1,1,True,0.5315829,0.5315829,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-11,1.5416666666666667,0.71859974,XGBoost,1,1,True,0.71859974,0.71859974,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-12,0.5,0.5548184,XGBoost,1,1,True,0.5548184,0.5548184,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-13,0.0,0.06818134,XGBoost,1,1,True,0.06818134,0.06818134,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-14,0.5416666666666666,0.38475192,XGBoost,1,1,True,0.38475192,0.38475192,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-15,0.4166666666666667,0.5158738,XGBoost,1,1,True,0.5158738,0.5158738,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-16,0.875,0.7675803,XGBoost,1,1,True,0.7675803,0.7675803,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-17,0.2083333333333333,0.6879662,XGBoost,1,1,True,0.6879662,0.6879662,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-18,0.2916666666666667,0.3178268,XGBoost,1,1,True,0.3178268,0.3178268,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-19,0.0,0.15541317,XGBoost,1,1,True,0.15541317,0.15541317,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-20,0.5416666666666666,0.44658417,XGBoost,1,1,True,0.44658417,0.44658417,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-21,0.0416666666666666,0.03862518,XGBoost,1,1,True,0.03862518,0.03862518,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-22,0.375,0.5781273,XGBoost,1,1,True,0.5781273,0.5781273,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-23,0.25,0.18467423,XGBoost,1,1,True,0.18467423,0.18467423,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-24,0.5833333333333334,0.4574792,XGBoost,1,1,True,0.4574792,0.4574792,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-25,0.4166666666666667,0.44197983,XGBoost,1,1,True,0.44197983,0.44197983,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-26,0.0833333333333333,0.13547198,XGBoost,1,1,True,0.13547198,0.13547198,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-27,0.0,0.035784073,XGBoost,1,1,True,0.035784073,0.035784073,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-28,0.0,0.04297855,XGBoost,1,1,True,0.04297855,0.04297855,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-29,0.4583333333333333,0.5260268,XGBoost,1,1,True,0.5260268,0.5260268,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-30,0.375,0.35699463,XGBoost,1,1,True,0.35699463,0.35699463,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Day Case Unit,2025-12-31,0.6666666666666666,0.34846464,XGBoost,1,1,True,0.34846464,0.34846464,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-02,0.9166666666666666,0.69961435,XGBoost,1,1,True,0.69961435,0.69961435,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-03,0.3333333333333333,0.5595669,XGBoost,1,1,True,0.5595669,0.5595669,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-04,1.0833333333333333,0.7645731,XGBoost,1,1,True,0.7645731,0.7645731,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-05,0.4166666666666667,0.6918163,XGBoost,1,1,True,0.6918163,0.6918163,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-06,0.6666666666666666,0.37811655,XGBoost,1,1,True,0.37811655,0.37811655,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-07,0.2916666666666667,0.39691353,XGBoost,1,1,True,0.39691353,0.39691353,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-08,0.9583333333333334,0.84091496,XGBoost,1,1,True,0.84091496,0.84091496,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-09,0.7916666666666666,0.87185603,XGBoost,1,1,True,0.87185603,0.87185603,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-10,0.9583333333333334,0.87791914,XGBoost,1,1,True,0.87791914,0.87791914,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-11,0.875,0.47691673,XGBoost,1,1,True,0.47691673,0.47691673,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-12,1.2083333333333333,0.95245594,XGBoost,1,1,True,0.95245594,0.95245594,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-13,0.0,0.08853151,XGBoost,1,1,True,0.08853151,0.08853151,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-14,0.1666666666666666,0.30201688,XGBoost,1,1,True,0.30201688,0.30201688,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-15,0.0,0.26211405,XGBoost,1,1,True,0.26211405,0.26211405,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-16,0.4166666666666667,0.7032867,XGBoost,1,1,True,0.7032867,0.7032867,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-17,0.6666666666666666,0.47876087,XGBoost,1,1,True,0.47876087,0.47876087,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-18,0.0,0.10263809,XGBoost,1,1,True,0.10263809,0.10263809,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-19,0.25,0.49894857,XGBoost,1,1,True,0.49894857,0.49894857,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-20,0.375,0.32356918,XGBoost,1,1,True,0.32356918,0.32356918,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-21,0.1666666666666666,0.2611204,XGBoost,1,1,True,0.2611204,0.2611204,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-22,0.25,0.499044,XGBoost,1,1,True,0.499044,0.499044,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-23,0.4583333333333333,0.42161313,XGBoost,1,1,True,0.42161313,0.42161313,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-24,0.0416666666666666,0.40304777,XGBoost,1,1,True,0.40304777,0.40304777,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-25,0.375,0.27012706,XGBoost,1,1,True,0.27012706,0.27012706,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-26,0.2916666666666667,0.3109415,XGBoost,1,1,True,0.3109415,0.3109415,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-27,0.9166666666666666,0.40287083,XGBoost,1,1,True,0.40287083,0.40287083,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-28,0.5833333333333334,0.5389447,XGBoost,1,1,True,0.5389447,0.5389447,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-29,0.0833333333333333,0.34940898,XGBoost,1,1,True,0.34940898,0.34940898,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-30,0.5416666666666666,0.5330662,XGBoost,1,1,True,0.5330662,0.5330662,Safe,Historically Safe,Operationally Feasible
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_Day Case Unit,2025-12-31,0.875,0.7997539,XGBoost,1,1,True,0.7997539,0.7997539,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-02,32.125,33.36154,XGBoost,14,12,False,2.382967142857143,2.7801283333333333,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-03,31.58333333333333,31.443584,XGBoost,14,12,False,2.245970285714286,2.6202986666666668,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-04,34.583333333333336,31.04506,XGBoost,14,12,False,2.2175042857142855,2.5870883333333334,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-05,34.75,31.524712,XGBoost,14,12,False,2.251765142857143,2.6270593333333334,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-06,34.375,31.984884,XGBoost,14,12,False,2.2846345714285716,2.665407,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-07,31.83333333333333,32.217026,XGBoost,14,12,False,2.3012161428571427,2.6847521666666663,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-08,27.70833333333333,29.931898,XGBoost,14,12,False,2.1379927142857142,2.494324833333333,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-09,29.08333333333333,31.587345,XGBoost,14,12,False,2.2562389285714284,2.63227875,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-10,34.708333333333336,31.210527,XGBoost,14,12,False,2.229323357142857,2.60087725,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-11,34.833333333333336,30.061487,XGBoost,14,12,False,2.1472490714285715,2.505123916666667,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-12,34.958333333333336,29.966974,XGBoost,14,12,False,2.140498142857143,2.4972478333333332,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-13,34.666666666666664,30.106922,XGBoost,14,12,False,2.1504944285714287,2.508910166666667,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-14,34.666666666666664,31.530981,XGBoost,14,12,False,2.2522129285714287,2.62758175,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-15,32.375,33.18905,XGBoost,14,12,False,2.370646428571429,2.765754166666667,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-16,29.416666666666668,33.31713,XGBoost,14,12,False,2.379795,2.7764275,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-17,32.666666666666664,31.112082,XGBoost,14,12,False,2.2222915714285714,2.5926735,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-18,30.166666666666668,29.922457,XGBoost,14,12,False,2.137318357142857,2.4935380833333336,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-19,32.458333333333336,28.4882,XGBoost,14,12,False,2.0348714285714284,2.3740166666666664,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-20,30.20833333333333,28.519384,XGBoost,14,12,False,2.037098857142857,2.376615333333333,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-21,24.541666666666668,27.258003,XGBoost,14,12,False,1.9470002142857141,2.27150025,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-22,27.875,28.65184,XGBoost,14,12,False,2.04656,2.387653333333333,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-23,31.95833333333333,31.770224,XGBoost,14,12,False,2.269301714285714,2.6475186666666666,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-24,31.375,28.957026,XGBoost,14,12,False,2.068359,2.4130854999999998,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-25,34.791666666666664,31.894104,XGBoost,14,12,False,2.2781502857142857,2.657842,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-26,34.625,31.318857,XGBoost,14,12,False,2.2370612142857143,2.60990475,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-27,31.125,32.503624,XGBoost,14,12,False,2.321687428571429,2.7086353333333335,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-28,34.541666666666664,33.67851,XGBoost,14,12,False,2.4056078571428574,2.8065425000000004,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-29,34.083333333333336,33.189396,XGBoost,14,12,False,2.370671142857143,2.7657830000000003,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-30,34.916666666666664,32.38776,XGBoost,14,12,False,2.3134114285714285,2.69898,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_General Medicine Ward A,2025-12-31,34.458333333333336,33.524364,XGBoost,14,12,False,2.3945974285714287,2.793697,Safe,Historically Unsafe,Unsafe
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-02,15.875,15.568454,XGBoost,6,6,True,2.594742333333333,2.594742333333333,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-03,15.125,15.45412,XGBoost,6,6,True,2.5756866666666665,2.5756866666666665,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-04,13.5,14.948869,XGBoost,6,6,True,2.4914781666666665,2.4914781666666665,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-05,11.666666666666666,14.023061,XGBoost,6,6,True,2.3371768333333334,2.3371768333333334,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-06,12.5,13.944588,XGBoost,6,6,True,2.3240979999999998,2.3240979999999998,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-07,13.5,13.375462,XGBoost,6,6,True,2.2292436666666666,2.2292436666666666,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-08,13.25,12.948716,XGBoost,6,6,True,2.158119333333333,2.158119333333333,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-09,12.291666666666666,12.169617,XGBoost,6,6,True,2.0282695,2.0282695,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-10,12.291666666666666,12.531508,XGBoost,6,6,True,2.0885846666666668,2.0885846666666668,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-11,13.333333333333334,14.286035,XGBoost,6,6,True,2.3810058333333335,2.3810058333333335,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-12,15.541666666666666,13.797539,XGBoost,6,6,True,2.2995898333333336,2.2995898333333336,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-13,14.916666666666666,14.325453,XGBoost,6,6,True,2.3875755,2.3875755,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-14,13.416666666666666,14.532761,XGBoost,6,6,True,2.4221268333333335,2.4221268333333335,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-15,13.666666666666666,14.734284,XGBoost,6,6,True,2.455714,2.455714,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-16,13.666666666666666,15.200929,XGBoost,6,6,True,2.533488166666667,2.533488166666667,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-17,13.458333333333334,15.497125,XGBoost,6,6,True,2.582854166666667,2.582854166666667,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-18,15.875,14.747428,XGBoost,6,6,True,2.4579046666666664,2.4579046666666664,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-19,15.916666666666666,14.12746,XGBoost,6,6,True,2.3545766666666665,2.3545766666666665,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-20,15.875,13.710756,XGBoost,6,6,True,2.285126,2.285126,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-21,15.708333333333334,15.428374,XGBoost,6,6,True,2.5713956666666666,2.5713956666666666,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-22,15.916666666666666,15.755778,XGBoost,6,6,True,2.625963,2.625963,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-23,16.0,15.505872,XGBoost,6,6,True,2.584312,2.584312,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-24,15.833333333333334,15.911426,XGBoost,6,6,True,2.6519043333333334,2.6519043333333334,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-25,15.583333333333334,15.790617,XGBoost,6,6,True,2.6317695,2.6317695,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-26,10.916666666666666,15.092468,XGBoost,6,6,True,2.515411333333333,2.515411333333333,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-27,10.875,13.97107,XGBoost,6,6,True,2.3285116666666665,2.3285116666666665,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-28,15.75,14.041485,XGBoost,6,6,True,2.3402475,2.3402475,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-29,15.708333333333334,14.927061,XGBoost,6,6,True,2.4878435,2.4878435,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-30,15.958333333333334,13.825922,XGBoost,6,6,True,2.3043203333333335,2.3043203333333335,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_General Medicine Ward B,2025-12-31,15.791666666666666,14.861679,XGBoost,6,6,True,2.4769465,2.4769465,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-02,17.541666666666668,17.253262,XGBoost,7,7,True,2.4647517142857143,2.4647517142857143,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-03,17.916666666666668,17.237164,XGBoost,7,7,True,2.462452,2.462452,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-04,18.0,17.16049,XGBoost,7,7,True,2.4514985714285715,2.4514985714285715,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-05,17.916666666666668,17.468653,XGBoost,7,7,True,2.4955218571428572,2.4955218571428572,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-06,17.791666666666668,17.151749,XGBoost,7,7,True,2.450249857142857,2.450249857142857,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-07,17.791666666666668,17.292477,XGBoost,7,7,True,2.4703538571428574,2.4703538571428574,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-08,17.791666666666668,17.864275,XGBoost,7,7,True,2.5520392857142857,2.5520392857142857,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-09,17.958333333333332,17.84071,XGBoost,7,7,True,2.5486728571428574,2.5486728571428574,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-10,17.791666666666668,17.717978,XGBoost,7,7,True,2.531139714285714,2.531139714285714,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-11,17.875,17.830288,XGBoost,7,7,True,2.547184,2.547184,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-12,17.791666666666668,17.815279,XGBoost,7,7,True,2.545039857142857,2.545039857142857,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-13,17.833333333333332,17.82965,XGBoost,7,7,True,2.5470928571428573,2.5470928571428573,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-14,17.833333333333332,17.835651,XGBoost,7,7,True,2.5479501428571427,2.5479501428571427,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-15,17.958333333333332,17.7404,XGBoost,7,7,True,2.5343428571428572,2.5343428571428572,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-16,17.916666666666668,17.7636,XGBoost,7,7,True,2.537657142857143,2.537657142857143,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-17,17.666666666666668,17.860113,XGBoost,7,7,True,2.551444714285714,2.551444714285714,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-18,17.958333333333332,17.832285,XGBoost,7,7,True,2.5474692857142855,2.5474692857142855,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-19,18.0,17.88996,XGBoost,7,7,True,2.555708571428571,2.555708571428571,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-20,17.583333333333332,17.771343,XGBoost,7,7,True,2.538763285714286,2.538763285714286,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-21,17.833333333333332,17.672762,XGBoost,7,7,True,2.5246802857142856,2.5246802857142856,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-22,17.875,17.601294,XGBoost,7,7,True,2.5144705714285713,2.5144705714285713,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-23,18.0,17.741215,XGBoost,7,7,True,2.5344592857142856,2.5344592857142856,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-24,16.208333333333332,17.32377,XGBoost,7,7,True,2.4748242857142855,2.4748242857142855,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-25,17.833333333333332,17.347952,XGBoost,7,7,True,2.478278857142857,2.478278857142857,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-26,17.833333333333332,16.869059,XGBoost,7,7,True,2.4098655714285715,2.4098655714285715,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-27,17.666666666666668,17.593803,XGBoost,7,7,True,2.513400428571429,2.513400428571429,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-28,17.958333333333332,17.306429,XGBoost,7,7,True,2.472347,2.472347,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-29,17.833333333333332,17.606403,XGBoost,7,7,True,2.5152004285714287,2.5152004285714287,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-30,17.791666666666668,17.637623,XGBoost,7,7,True,2.5196604285714286,2.5196604285714286,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward B,2025-12-31,17.958333333333332,17.904076,XGBoost,7,7,True,2.557725142857143,2.557725142857143,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-02,24.291666666666668,22.210852,XGBoost,12,12,True,1.8509043333333333,1.8509043333333333,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-03,26.58333333333333,21.379564,XGBoost,12,12,True,1.7816303333333332,1.7816303333333332,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-04,27.20833333333333,20.791927,XGBoost,12,12,True,1.7326605833333335,1.7326605833333335,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-05,27.58333333333333,22.553741,XGBoost,12,12,True,1.8794784166666665,1.8794784166666665,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-06,26.08333333333333,23.953594,XGBoost,12,12,True,1.9961328333333332,1.9961328333333332,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-07,25.916666666666668,25.374994,XGBoost,12,12,True,2.1145828333333334,2.1145828333333334,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-08,24.58333333333333,24.733639,XGBoost,12,12,True,2.0611365833333335,2.0611365833333335,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-09,23.541666666666668,25.519754,XGBoost,12,12,True,2.1266461666666667,2.1266461666666667,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-10,26.291666666666668,24.457937,XGBoost,12,12,True,2.0381614166666666,2.0381614166666666,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-11,26.08333333333333,23.594707,XGBoost,12,12,True,1.9662255833333333,1.9662255833333333,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-12,27.20833333333333,23.510492,XGBoost,12,12,True,1.9592076666666667,1.9592076666666667,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-13,27.75,24.43398,XGBoost,12,12,True,2.036165,2.036165,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-14,24.70833333333333,23.563848,XGBoost,12,12,True,1.963654,1.963654,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-15,25.041666666666668,24.847252,XGBoost,12,12,True,2.0706043333333333,2.0706043333333333,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-16,22.70833333333333,25.401382,XGBoost,12,12,True,2.1167818333333335,2.1167818333333335,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-17,23.95833333333333,24.421112,XGBoost,12,12,True,2.035092666666667,2.035092666666667,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-18,21.041666666666668,22.684263,XGBoost,12,12,True,1.89035525,1.89035525,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-19,18.625,21.860262,XGBoost,12,12,True,1.8216884999999998,1.8216884999999998,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-20,16.25,20.551508,XGBoost,12,12,True,1.7126256666666666,1.7126256666666666,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-21,16.958333333333332,20.636536,XGBoost,12,12,True,1.7197113333333334,1.7197113333333334,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-22,19.33333333333333,18.862782,XGBoost,12,12,True,1.5718984999999999,1.5718984999999999,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-23,19.58333333333333,21.297766,XGBoost,12,12,True,1.7748138333333332,1.7748138333333332,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-24,22.58333333333333,19.859453,XGBoost,12,12,True,1.6549544166666665,1.6549544166666665,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-25,19.125,20.572008,XGBoost,12,12,True,1.714334,1.714334,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-26,19.125,20.765888,XGBoost,12,12,True,1.7304906666666666,1.7304906666666666,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-27,18.83333333333333,24.42035,XGBoost,12,12,True,2.0350291666666664,2.0350291666666664,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-28,22.58333333333333,21.779264,XGBoost,12,12,True,1.8149386666666667,1.8149386666666667,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-29,26.70833333333333,20.778519,XGBoost,12,12,True,1.7315432499999999,1.7315432499999999,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-30,27.95833333333333,22.313639,XGBoost,12,12,True,1.8594699166666666,1.8594699166666666,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Orthopaedics Ward A,2025-12-31,27.58333333333333,23.562382,XGBoost,12,12,True,1.9635318333333334,1.9635318333333334,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-02,10.875,10.834009,XGBoost,5,5,True,2.1668018,2.1668018,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-03,10.958333333333334,10.978671,XGBoost,5,5,True,2.1957342,2.1957342,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-04,11.0,10.971689,XGBoost,5,5,True,2.1943378,2.1943378,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-05,10.791666666666666,10.953121,XGBoost,5,5,True,2.1906242,2.1906242,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-06,10.791666666666666,10.904417,XGBoost,5,5,True,2.1808834,2.1808834,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-07,10.916666666666666,10.802183,XGBoost,5,5,True,2.1604365999999997,2.1604365999999997,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-08,10.916666666666666,10.829664,XGBoost,5,5,True,2.1659327999999998,2.1659327999999998,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-09,10.833333333333334,10.855167,XGBoost,5,5,True,2.1710334,2.1710334,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-10,11.0,10.930645,XGBoost,5,5,True,2.186129,2.186129,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-11,10.916666666666666,10.927951,XGBoost,5,5,True,2.1855902,2.1855902,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-12,10.75,10.901324,XGBoost,5,5,True,2.1802648000000002,2.1802648000000002,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-13,10.833333333333334,10.87855,XGBoost,5,5,True,2.17571,2.17571,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-14,10.833333333333334,10.750642,XGBoost,5,5,True,2.1501284,2.1501284,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-15,10.458333333333334,10.766779,XGBoost,5,5,True,2.1533558,2.1533558,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-16,10.875,10.795208,XGBoost,5,5,True,2.1590416,2.1590416,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-17,10.916666666666666,10.818608,XGBoost,5,5,True,2.1637215999999997,2.1637215999999997,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-18,10.916666666666666,10.813838,XGBoost,5,5,True,2.1627676,2.1627676,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-19,11.0,10.882551,XGBoost,5,5,True,2.1765102,2.1765102,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-20,10.791666666666666,10.792452,XGBoost,5,5,True,2.1584904000000003,2.1584904000000003,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-21,10.75,10.806816,XGBoost,5,5,True,2.1613632,2.1613632,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-22,10.916666666666666,10.768633,XGBoost,5,5,True,2.1537265999999997,2.1537265999999997,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-23,10.875,10.645977,XGBoost,5,5,True,2.1291954,2.1291954,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-24,10.958333333333334,10.661141,XGBoost,5,5,True,2.1322282,2.1322282,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-25,10.833333333333334,10.507062,XGBoost,5,5,True,2.1014124,2.1014124,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-26,10.333333333333334,10.226645,XGBoost,5,5,True,2.0453289999999997,2.0453289999999997,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-27,10.125,10.204462,XGBoost,5,5,True,2.0408923999999997,2.0408923999999997,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-28,10.333333333333334,10.271039,XGBoost,5,5,True,2.0542078,2.0542078,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-29,9.0,10.007778,XGBoost,5,5,True,2.0015556,2.0015556,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-30,9.625,10.043935,XGBoost,5,5,True,2.008787,2.008787,Safe,Historically Safe,Operationally Feasible
+Horizon Birmingham,HHN-BIR-01,HHN-BIR-01_Orthopaedics Ward B,2025-12-31,10.875,10.040639,XGBoost,5,5,True,2.0081278,2.0081278,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-02,11.958333333333334,11.896573,XGBoost,5,5,True,2.3793146,2.3793146,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-03,11.958333333333334,11.9621,XGBoost,5,5,True,2.39242,2.39242,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-04,11.958333333333334,11.944336,XGBoost,5,5,True,2.3888672,2.3888672,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-05,11.916666666666666,11.936356,XGBoost,5,5,True,2.3872712,2.3872712,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-06,11.875,11.920311,XGBoost,5,5,True,2.3840622,2.3840622,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-07,11.875,11.824378,XGBoost,5,5,True,2.3648756,2.3648756,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-08,11.958333333333334,11.855023,XGBoost,5,5,True,2.3710046,2.3710046,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-09,12.0,11.940299,XGBoost,5,5,True,2.3880597999999997,2.3880597999999997,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-10,11.916666666666666,11.920783,XGBoost,5,5,True,2.3841566,2.3841566,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-11,10.791666666666666,11.492377,XGBoost,5,5,True,2.2984754,2.2984754,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-12,11.875,11.42535,XGBoost,5,5,True,2.28507,2.28507,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-13,10.875,11.364098,XGBoost,5,5,True,2.2728196,2.2728196,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-14,11.5,11.299428,XGBoost,5,5,True,2.2598856,2.2598856,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-15,11.875,11.194562,XGBoost,5,5,True,2.2389124,2.2389124,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-16,11.875,11.315754,XGBoost,5,5,True,2.2631508,2.2631508,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-17,11.916666666666666,11.4625845,XGBoost,5,5,True,2.2925169,2.2925169,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-18,11.875,11.571261,XGBoost,5,5,True,2.3142522,2.3142522,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-19,11.958333333333334,11.414599,XGBoost,5,5,True,2.2829198,2.2829198,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-20,11.791666666666666,11.824687,XGBoost,5,5,True,2.3649374,2.3649374,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-21,11.958333333333334,11.480823,XGBoost,5,5,True,2.2961646,2.2961646,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-22,11.833333333333334,11.508597,XGBoost,5,5,True,2.3017194,2.3017194,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-23,12.0,11.541287,XGBoost,5,5,True,2.3082574,2.3082574,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-24,11.958333333333334,11.568675,XGBoost,5,5,True,2.3137350000000003,2.3137350000000003,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-25,11.958333333333334,10.699183,XGBoost,5,5,True,2.1398365999999998,2.1398365999999998,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-26,11.833333333333334,10.661957,XGBoost,5,5,True,2.1323914,2.1323914,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-27,11.875,11.52548,XGBoost,5,5,True,2.305096,2.305096,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-28,11.958333333333334,11.512037,XGBoost,5,5,True,2.3024074,2.3024074,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-29,10.416666666666666,11.320843,XGBoost,5,5,True,2.2641686,2.2641686,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-30,10.583333333333334,11.082615,XGBoost,5,5,True,2.216523,2.216523,Safe,Historically Safe,Operationally Feasible
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_Orthopaedics Ward B,2025-12-31,11.75,11.066948,XGBoost,5,5,True,2.2133896,2.2133896,Safe,Historically Safe,Operationally Feasible
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-02,24.416666666666668,28.439175140663227,SARIMAX,18,16,False,1.5799541744812904,1.7774484462914517,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-03,20.916666666666668,29.70544846694132,SARIMAX,18,16,False,1.650302692607851,1.8565905291838325,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-04,24.0,30.53687413546816,SARIMAX,18,16,False,1.696493007526009,1.90855463346676,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-05,27.0,30.497328809142484,SARIMAX,18,16,False,1.6942960449523603,1.9060830505714053,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-06,26.20833333333333,29.205280762365565,SARIMAX,18,16,False,1.622515597909198,1.8253300476478478,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-07,32.5,27.03234056273454,SARIMAX,18,16,False,1.5017966979296966,1.6895212851709087,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-08,37.208333333333336,27.56431919555979,SARIMAX,18,16,False,1.5313510664199883,1.7227699497224869,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-09,36.458333333333336,30.61673986152875,SARIMAX,18,16,False,1.7009299923071528,1.9135462413455468,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-10,37.958333333333336,31.60982977779069,SARIMAX,18,16,False,1.756101654321705,1.9756143611119181,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-11,36.083333333333336,32.185076377302174,SARIMAX,18,16,False,1.7880597987390097,2.011567273581386,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-12,37.375,31.920774625833587,SARIMAX,18,16,False,1.773376368101866,1.9950484141145992,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-13,31.20833333333333,30.436184347089004,SARIMAX,18,16,False,1.6908991303938334,1.9022615216930627,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-14,22.58333333333333,28.088175272598697,SARIMAX,18,16,False,1.5604541818110387,1.7555109545374186,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-15,18.666666666666668,28.47508253674193,SARIMAX,18,16,False,1.581949029818996,1.7796926585463706,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-16,26.916666666666668,31.39390307362276,SARIMAX,18,16,False,1.7441057263123756,1.9621189421014225,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-17,31.041666666666668,32.26858491794312,SARIMAX,18,16,False,1.7926991621079513,2.016786557371445,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-18,29.875,32.739390757382324,SARIMAX,18,16,False,1.8188550420767957,2.0462119223363953,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-19,33.916666666666664,32.38271595060854,SARIMAX,18,16,False,1.7990397750338079,2.023919746913034,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-20,32.458333333333336,30.82200227988315,SARIMAX,18,16,False,1.7123334599935083,1.926375142492697,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-21,28.125,28.401241341729023,SARIMAX,18,16,False,1.577846741207168,1.775077583858064,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-22,32.958333333333336,28.733010355319315,SARIMAX,18,16,False,1.5962783530732954,1.7958131472074572,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-23,29.20833333333333,31.5972725344177,SARIMAX,18,16,False,1.7554040296898723,1.9748295334011063,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-24,26.625,32.42301767175651,SARIMAX,18,16,False,1.8012787595420283,2.026438604484782,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-25,28.166666666666668,37.926158127452496,SARIMAX,18,16,False,2.107008784858472,2.370384882965781,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-26,31.791666666666668,37.530777147245246,SARIMAX,18,16,False,2.085043174846958,2.345673571702828,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-27,32.083333333333336,30.86539607996691,SARIMAX,18,16,False,1.7147442266648283,1.9290872549979319,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-28,37.375,28.413340832056537,SARIMAX,18,16,False,1.5785189351142521,1.7758338020035336,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-29,37.875,38.0,SARIMAX,18,16,False,2.111111111111111,2.375,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-30,37.583333333333336,38.0,SARIMAX,18,16,False,2.111111111111111,2.375,Safe,Historically Unsafe,Unsafe
+Horizon London Central,HHN-LON-01,HHN-LON-01_Cardiology Ward,2025-12-31,37.625,38.0,SARIMAX,18,16,False,2.111111111111111,2.375,Safe,Historically Unsafe,Unsafe

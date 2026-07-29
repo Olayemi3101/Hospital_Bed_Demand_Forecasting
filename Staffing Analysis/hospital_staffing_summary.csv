@@ -1,0 +1,10 @@
+hospital_id,overall_status,days_count
+HHN-BIR-01,Operationally Feasible,118
+HHN-BIR-01,Unsafe,7
+HHN-EDI-01,Operationally Feasible,79
+HHN-LON-01,Operationally Feasible,81
+HHN-LON-01,Unsafe,67
+HHN-LON-02,Operationally Feasible,187
+HHN-LON-02,Unsafe,7
+HHN-MAN-01,Operationally Feasible,81
+HHN-MAN-01,Unsafe,21

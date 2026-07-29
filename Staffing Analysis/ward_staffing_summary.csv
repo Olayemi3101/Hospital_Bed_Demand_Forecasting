@@ -1,0 +1,41 @@
+unit,overall_status,days_count
+HHN-BIR-01_Cardiology Ward,Operationally Feasible,7
+HHN-BIR-01_Day Case Unit,Operationally Feasible,30
+HHN-BIR-01_General Medicine Ward A,Operationally Feasible,7
+HHN-BIR-01_General Medicine Ward B,Operationally Feasible,30
+HHN-BIR-01_ICU,Operationally Feasible,7
+HHN-BIR-01_Oncology Ward,Operationally Feasible,7
+HHN-BIR-01_Orthopaedics Ward A,Unsafe,7
+HHN-BIR-01_Orthopaedics Ward B,Operationally Feasible,30
+HHN-EDI-01_Cardiology Ward,Operationally Feasible,7
+HHN-EDI-01_Day Case Unit,Operationally Feasible,30
+HHN-EDI-01_General Medicine Ward A,Operationally Feasible,7
+HHN-EDI-01_General Medicine Ward B,Operationally Feasible,7
+HHN-EDI-01_ICU,Operationally Feasible,7
+HHN-EDI-01_Oncology Ward,Operationally Feasible,7
+HHN-EDI-01_Orthopaedics Ward A,Operationally Feasible,7
+HHN-EDI-01_Orthopaedics Ward B,Operationally Feasible,7
+HHN-LON-01_Cardiology Ward,Unsafe,30
+HHN-LON-01_Day Case Unit,Operationally Feasible,7
+HHN-LON-01_General Medicine Ward A,Unsafe,30
+HHN-LON-01_General Medicine Ward B,Operationally Feasible,7
+HHN-LON-01_ICU,Operationally Feasible,7
+HHN-LON-01_Oncology Ward,Operationally Feasible,30
+HHN-LON-01_Orthopaedics Ward A,Operationally Feasible,30
+HHN-LON-01_Orthopaedics Ward B,Unsafe,7
+HHN-LON-02_Cardiology Ward,Operationally Feasible,30
+HHN-LON-02_Day Case Unit,Operationally Feasible,30
+HHN-LON-02_General Medicine Ward A,Unsafe,7
+HHN-LON-02_General Medicine Ward B,Operationally Feasible,30
+HHN-LON-02_ICU,Operationally Feasible,30
+HHN-LON-02_Oncology Ward,Operationally Feasible,30
+HHN-LON-02_Orthopaedics Ward A,Operationally Feasible,7
+HHN-LON-02_Orthopaedics Ward B,Operationally Feasible,30
+HHN-MAN-01_Cardiology Ward,Operationally Feasible,7
+HHN-MAN-01_Day Case Unit,Operationally Feasible,30
+HHN-MAN-01_General Medicine Ward A,Unsafe,7
+HHN-MAN-01_General Medicine Ward B,Unsafe,7
+HHN-MAN-01_ICU,Operationally Feasible,7
+HHN-MAN-01_Oncology Ward,Operationally Feasible,30
+HHN-MAN-01_Orthopaedics Ward A,Unsafe,7
+HHN-MAN-01_Orthopaedics Ward B,Operationally Feasible,7

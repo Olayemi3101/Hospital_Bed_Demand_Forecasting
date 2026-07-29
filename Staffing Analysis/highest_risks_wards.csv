@@ -1,0 +1,11 @@
+hospital_name,hospital_id,unit,date,actual,predicted,model,planned_staff,actual_staff,safe_ratio_met,beds_per_planned_staff,beds_per_actual_staff,feasibility_flag,historical_safe_ratio,overall_status
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-29,20.791666666666668,18.68937512811914,Holt-Winters,8,6,False,2.3361718910148923,3.114895854686523,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-30,20.791666666666668,18.57985990434573,Holt-Winters,8,6,False,2.3224824880432164,3.096643317390955,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-28,18.666666666666668,18.392302267883185,Holt-Winters,8,6,False,2.299037783485398,3.065383711313864,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-31,20.916666666666668,18.145499004941662,Holt-Winters,8,6,False,2.268187375617708,3.0242498341569437,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward B,2025-12-29,20.75,21.0,Holt-Winters,8,7,False,2.625,3.0,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward B,2025-12-30,20.58333333333333,21.0,Holt-Winters,8,7,False,2.625,3.0,Safe,Historically Unsafe,Unsafe
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward A,2025-12-29,17.833333333333332,17.916666666666668,Holt-Winters,7,6,False,2.5595238095238098,2.986111111111111,Safe,Historically Unsafe,Unsafe
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward A,2025-12-31,17.916666666666668,17.916666666666668,Holt-Winters,7,6,False,2.5595238095238098,2.986111111111111,Safe,Historically Unsafe,Unsafe
+Horizon London Riverside,HHN-LON-02,HHN-LON-02_General Medicine Ward A,2025-12-30,17.666666666666668,17.916666666666668,Holt-Winters,7,6,False,2.5595238095238098,2.986111111111111,Safe,Historically Unsafe,Unsafe
+Horizon Manchester,HHN-MAN-01,HHN-MAN-01_General Medicine Ward A,2025-12-27,20.625,17.905475920632043,Holt-Winters,8,6,False,2.2381844900790053,2.9842459867720073,Safe,Historically Unsafe,Unsafe
